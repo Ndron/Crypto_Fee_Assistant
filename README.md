@@ -2,7 +2,7 @@
 
 A local AI-powered crypto trading analysis tool with candlestick chart rendering. Connects to Binance via MCP tools for real-time market data — read-only, no auto-trading.
 
-![Crypto Assistant](example.png)
+![Crypto Assistant](UI.png)
 
 ## Features
 
