@@ -27,7 +27,6 @@ A local AI-powered crypto trading analysis tool with candlestick chart rendering
 | `Which symbol has the lowest effective fee?` | Scans and ranks symbols |
 | `Compare spot vs perp for SOL` | Side-by-side fee comparison |
 | `Draw a candlestick chart of BTCUSDT` | Renders interactive TradingView chart |
-| `нарисуй график биткоина` | Draws BTC chart (Russian supported) |
 
 ## Architecture
 
