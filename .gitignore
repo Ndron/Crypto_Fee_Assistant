@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.pyc
+__pycache__/
+.pytest_cache/
+*.egg-info/
+data/
+.vite
+instruction.txt
+DEVELOPMENT_PLAN.md
